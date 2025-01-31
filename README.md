@@ -1,1 +1,1 @@
-# Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes
+# Fused-Planes: Improving Planar Representations for Learning Large Sets of 3D Scenes
